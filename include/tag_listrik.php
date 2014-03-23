@@ -1,0 +1,1 @@
+<?php echo "Saudara $baris[nama] Tagihan Rekening Listrik Pada Bulan ini Adalah Sebesar $baris[tagihan]" ;?>
